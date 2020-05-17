@@ -1,0 +1,28 @@
+.blocoTitle {
+    padding: 20px;
+    text-align: center;
+    text-shadow: 2px 2px blue;
+    font-size: 25px;
+    text-align: center;
+}
+
+.blocoLiSites {
+    padding-left: 20px;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.blocoLiSites li {
+    padding: 5px;
+    font-size: 20px;
+}
+
+.blocoLiSites li a {
+    color: black;
+    text-decoration: none;
+}
+
+.blocoLiSites li a:hover {
+    color: blue;
+}
